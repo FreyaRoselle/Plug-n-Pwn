@@ -27,7 +27,7 @@ Academic & Laboratory Research Project
 </p>
 
 <p align="center">
-<img src="ESP32.jpg" width="420">
+<img src="images/ESP32.jpg" width="420">
 </p>
 
 <hr style="border:1px solid #30363d">
